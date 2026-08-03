@@ -45,11 +45,15 @@ venv.bak/
 
 # Data and Models
 data/*.csv
+data/*.npy
 data/*.zip
 data/*.json
 data/*.gz
 data/*.tar
 models/*.pkl
+models/*.json
+models/*.csv
+models/*.png
 models/*.h5
 models/*.pt
 models/*.pth
